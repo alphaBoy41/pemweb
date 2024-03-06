@@ -83,6 +83,16 @@ section {
   background-color: #fff;
 }
 
+.foto {
+  margin: 0px;
+  height: 70vh;
+  background: url("/img/hero.jpeg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 footer {
   background-color: #333;
   color: #fff;
